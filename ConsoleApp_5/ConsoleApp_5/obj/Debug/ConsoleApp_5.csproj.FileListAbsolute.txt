@@ -1,0 +1,16 @@
+C:\Users\Руслан\source\repos\ConsoleApp_5\ConsoleApp_5\bin\Debug\ConsoleApp_5.exe.config
+C:\Users\Руслан\source\repos\ConsoleApp_5\ConsoleApp_5\bin\Debug\ConsoleApp_5.exe
+C:\Users\Руслан\source\repos\ConsoleApp_5\ConsoleApp_5\bin\Debug\ConsoleApp_5.pdb
+C:\Users\Руслан\source\repos\ConsoleApp_5\ConsoleApp_5\obj\Debug\ConsoleApp_5.csproj.AssemblyReference.cache
+C:\Users\Руслан\source\repos\ConsoleApp_5\ConsoleApp_5\obj\Debug\ConsoleApp_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Руслан\source\repos\ConsoleApp_5\ConsoleApp_5\obj\Debug\ConsoleApp_5.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\source\repos\ConsoleApp_5\ConsoleApp_5\obj\Debug\ConsoleApp_5.exe
+C:\Users\Руслан\source\repos\ConsoleApp_5\ConsoleApp_5\obj\Debug\ConsoleApp_5.pdb
+E:\УПК\Нед_2\Задание_5\ConsoleApp_5\ConsoleApp_5\bin\Debug\ConsoleApp_5.exe.config
+E:\УПК\Нед_2\Задание_5\ConsoleApp_5\ConsoleApp_5\bin\Debug\ConsoleApp_5.exe
+E:\УПК\Нед_2\Задание_5\ConsoleApp_5\ConsoleApp_5\bin\Debug\ConsoleApp_5.pdb
+E:\УПК\Нед_2\Задание_5\ConsoleApp_5\ConsoleApp_5\obj\Debug\ConsoleApp_5.csproj.CoreCompileInputs.cache
+E:\УПК\Нед_2\Задание_5\ConsoleApp_5\ConsoleApp_5\obj\Debug\ConsoleApp_5.exe
+E:\УПК\Нед_2\Задание_5\ConsoleApp_5\ConsoleApp_5\obj\Debug\ConsoleApp_5.pdb
+E:\УПК\Нед_2\Задание_5\ConsoleApp_5\ConsoleApp_5\obj\Debug\ConsoleApp_5.csproj.AssemblyReference.cache
+E:\УПК\Нед_2\Задание_5\ConsoleApp_5\ConsoleApp_5\obj\Debug\ConsoleApp_5.csproj.SuggestedBindingRedirects.cache
